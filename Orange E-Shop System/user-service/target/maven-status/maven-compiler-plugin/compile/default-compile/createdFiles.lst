@@ -1,0 +1,14 @@
+com\E_Shop\user_service\dto\LoginRequest.class
+com\E_Shop\user_service\dto\RegisterRequest.class
+com\E_Shop\user_service\dto\AuthResponse.class
+com\E_Shop\user_service\model\User.class
+com\E_Shop\user_service\UserServiceApplication.class
+com\E_Shop\user_service\filter\JwtFilter.class
+com\E_Shop\user_service\repository\UserRepository.class
+com\E_Shop\user_service\controller\AuthController.class
+com\E_Shop\user_service\service\AuthService.class
+com\E_Shop\user_service\controller\TestController.class
+com\E_Shop\user_service\service\UserDetailsServiceImpl.class
+com\E_Shop\user_service\service\JwtService.class
+com\E_Shop\user_service\conf\SecurityConfig.class
+com\E_Shop\user_service\model\Role.class
